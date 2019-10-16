@@ -1,5 +1,3 @@
-[__Visual Identity__](visual-identity.md) | 
-
 # SchoolSafety.gov Style Guides
 
 **Getting Started**
@@ -9,6 +7,8 @@ This site provides guidelines to help you create consistent, accessible, and use
 **Maintenance** 
 
 Guidelines and style guides should be accessible to all team members and contributors. Team members should also be able to update guidelines and design documentation as SchoolSafety.gov evolves. For that reason, these guidelines are published in a public-facing GitHub repo that contains markdown files where content is stored. 
+
+[__Visual Identity__](visual-identity.md)
 
 # Content Style Guide
 
