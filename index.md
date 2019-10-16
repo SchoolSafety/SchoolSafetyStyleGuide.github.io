@@ -8,7 +8,7 @@ This site provides guidelines to help you create consistent, accessible, and use
 
 Guidelines and style guides should be accessible to all team members and contributors. Team members should also be able to update guidelines and design documentation as SchoolSafety.gov evolves. For that reason, these guidelines are published in a public-facing GitHub repo that contains markdown files where content is stored. 
 
-**Quick Links**
+## Quick Links
 
 [__Visual Identity and Brand Guidelines__](visual-identity.md)
 
