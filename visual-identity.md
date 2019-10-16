@@ -1,13 +1,3 @@
----
-# Do NOT Edit layout
-layout: default
-
-#Page info: Edit these items below
-title: Visual Identity Guidelines
-parent: index
-nav_order: 1
-slug: 00_visual-identity
----
 
 [__Home__](index.md)
 
